@@ -42,7 +42,7 @@ Claude Code offers powerful sub-agent workflows—but they're limited to its own
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - One of these execution engines (they actually run the sub-agents):
   - `codex` CLI (from Codex)
   - `cursor-agent` CLI (from Cursor)
